@@ -14,7 +14,9 @@ Criar uma plataforma que facilite a busca por ofertas,
 reunindo produtos e oportunidades de economia em um só lugar.
 
 ## Tecnologias utilizadas
-[Inserir as tecnologias realmente utilizadas]
+- Java
+- PHP
+- SQL
 
 ## Próximas etapas
 - Aprimorar a interface do site.
