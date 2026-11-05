@@ -1,6 +1,4 @@
 # Economizei
-Projeto acadêmico de uma plataforma promoções
-
 ## Sobre o projeto
 Projeto acadêmico de desenvolvimento web voltado à
 divulgação e organização de ofertas e oportunidades
